@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the bloody and cruell battaile, of late loste by the great Turke Sultan Selim And also of the taking of the strong towne of Seruan, with the number there slaine and taken, and the great store of artillery [and] munitions of warre lost in the taking of the saide towne, 1579. Translated out of French into English.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15734</idno><idno type="EEBO-CITATION">99837746</idno>
+  <idno type="VID">177537</idno>
+  <idno type="EEBO-PROQUEST">2248562529</idno>
+  <idno type="STC">STC 22180</idno>
+  <idno type="STC">ESTC S101943</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837746e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177537)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1034:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the bloody and cruell battaile, of late loste by the great Turke Sultan Selim And also of the taking of the strong towne of Seruan, with the number there slaine and taken, and the great store of artillery [and] munitions of warre lost in the taking of the saide towne, 1579. Translated out of French into English.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>At the three Cranes in the Vintree by Thomas Dawson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1579?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Running title reads: A cruell battaile against the Turke.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">[Shirvan, Battle of, 1578] --  Early works to 1800.</term>
+               <term type="geographic_name">Turkey --  History --  Wars with Persia, 1576-1639 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177537:1"/>
+            <pb facs="tcp:177537:1"/>
+            <p>A Discourse <hi>of the bloody and cruell</hi> Battaile, of late loste by <hi>the great Turke</hi> Sultan Selim.</p>
+            <p>
+               <hi>And also of the taking of <hi>the strong Towne of</hi>
+               </hi> Seruan, <hi>with the number there slaine and taken, and the great store of Artil<g ref="char:EOLhyphen"/>lery &amp; munitions of warre lost in the taking of the saide Towne.</hi>
+            </p>
+            <p>1579.</p>
+            <p>Translated out of French <hi>into English.</hi>
+            </p>
+            <p>¶ <hi>Imprinted at London at</hi> the three Cranes in the Vintree <hi>by Thomas Dawson.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177537:2"/>
+            <pb facs="tcp:177537:2"/>
+            <head>❧ Of the bloodie and <hi>cruell Battaile, new<g ref="char:EOLhyphen"/>ly</hi> loste by the great <hi>Turke Sultan Selim.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is nowe long time past, that betwene the linage of the <hi>Otto<g ref="char:EOLhyphen"/>mans,</hi> being the Progenitours of the <hi>Turkes,</hi> &amp; the kinges of <hi>Persia,</hi> called <hi>Sophi,</hi> Monarches parting betweene them al<g ref="char:EOLhyphen"/>most all <hi>Asia,</hi> and much in <hi>Africke,</hi> the war doth endure, which hath begun from the time of <hi>D'Vsuncassan</hi> (or as other doe cal <hi>Assembey</hi>) successor of <hi>Tamer<g ref="char:EOLhyphen"/>lan,</hi> who being base of degree, made him lord of the most part of the <hi>Orent,</hi> in the yeere of our Lorde God, 1400. ha<g ref="char:EOLhyphen"/>uing ouercome <hi>Baiazet</hi> King of <hi>Turkie.</hi> This <hi>Vsuncassan</hi> (I say) hauing succe<g ref="char:EOLhyphen"/>ded to the saide <hi>Tamerlan,</hi> in the Mo<g ref="char:EOLhyphen"/>narchie of the <hi>Persians,</hi> hath alwaies warred with the <hi>Turkes</hi> (euen as also
+<pb facs="tcp:177537:3"/> haue done, the <hi>Sophies</hi> successours.) He toke to wife the daughter of the Em<g ref="char:EOLhyphen"/>perour of <hi>Trapezunt,</hi> the which did helpe him greatly in his warres, but not so happily, but that he lost his Empire.</p>
+            <p>The <hi>Persians</hi> not hauing at that time the vsage of the Cannon, as the <hi>Turkes</hi> had, although the <hi>Persian</hi> is more va<g ref="char:EOLhyphen"/>liant, yet nothing resisteth against suche thūder claps. His successours afterward vntill this day, haue alwaies quarelled with the <hi>Trapezuntain,</hi> by reason wher<g ref="char:EOLhyphen"/>of they haue ouercome the landes of the great <hi>Turke</hi> in diuers places: And they doeing the like vnto them, but not so fu<g ref="char:EOLhyphen"/>riously as they haue doone, after they dyd vnderstande of the death of the king of <hi>Portugal</hi> their confederate, since the time of the foresaide <hi>Vsuncassan,</hi> who first made league with the <hi>Agentes</hi> of the saide King of <hi>Portugall</hi> against the <hi>Turke,</hi> and the petie kinges of <hi>Africke</hi> his subiectes: Because that <hi>Ismaell</hi> (father of him that nowe is <hi>Sophi</hi>) died about the yeere 1557. although hee hath had notable victories against <hi>Sul<g ref="char:EOLhyphen"/>tan
+<pb facs="tcp:177537:3"/> Selim,</hi> notwithstanding, hee loste <hi>Mesopotamia</hi> and <hi>Chaldea</hi> with the Towne of <hi>Tauris,</hi> a Holde of great im<g ref="char:EOLhyphen"/>portance, which caused the same <hi>Sophi</hi> nowe raigning to make aliaunce with the king of the <hi>Ethiopians,</hi> and to renew the same with the king of <hi>Portugall,</hi> fea<g ref="char:EOLhyphen"/>ring that the <hi>Turke</hi> woulde hinder him on that side, on the which he is weakest.</p>
+            <p>For these reasons, and for to hinder the <hi>Turke</hi> in other places, hath he newly raised an armie of <hi>Persians</hi> and other na<g ref="char:EOLhyphen"/>tions, to the number of one hundred and threescore thousand, chosen men, very ex<g ref="char:EOLhyphen"/>pert in armes, and conducted them before the Towne of <hi>Seruan</hi> in the bor<g ref="char:EOLhyphen"/>ders of <hi>Mesopotamia,</hi> harde by the ri<g ref="char:EOLhyphen"/>uer of <hi>Tegil,</hi> a strong place, and the which made vppon him many Roades and robberies in his lande: whereof the great <hi>Turke</hi> being aduertised, dis<g ref="char:EOLhyphen"/>patched immediatly eight <hi>Basshaes</hi> for to encounter with him, and raise the siege, causing full fourescore thousande men to returne, which he dispatched to<g ref="char:EOLhyphen"/>wardes <hi>Africke,</hi> and caused more to be
+<pb facs="tcp:177537:4"/> taken vp in his lande beyonde the mount <hi>Caspie</hi> (borderers or fronterers, of those of the <hi>Sophies</hi>) so that he caused his ar<g ref="char:EOLhyphen"/>mie to be assembled, beyng almost to the number of two hundred thousande men.</p>
+            <p>In the meane time the <hi>Sophi,</hi> ende<g ref="char:EOLhyphen"/>uoured him selfe furiously to batter this place, and giueth vpon the same manye assaultes: but those within being aduer<g ref="char:EOLhyphen"/>tised of the succour, which was neere them, had such good courage, and ordered so their affaires, that altogeather they re<g ref="char:EOLhyphen"/>sisted couragiously, and as this Hold was a border of y<seg rend="sup">e</seg> enimie, so was it furnished with good men, hauing no want of any munitions of warre, and specially of Pouder, Firewoorkes, Cannons and Harquebushers, and being but a while past, since those munitions had been sent thither, to inuade the lande of the <hi>So<g ref="char:EOLhyphen"/>phie.</hi> The army of the <hi>Turke</hi> did ariue there, about the moneth of December last: The which the <hi>Sophie</hi> vnderstan<g ref="char:EOLhyphen"/>ding, made haste to cause an other assault to be giuē against those of y<seg rend="sup">e</seg> towne: but in the meane time he was so wel prouided of
+<pb facs="tcp:177537:4"/> wit, that he caused his campe to be set in battel aray, fearing least y<seg rend="sup">e</seg>
+               <hi>Turke</hi> would inuade him, for to cause the assaulte to be interrupted: This being concluded by the enimie, entending to put his purpose in execution, without regarding that the <hi>Persians</hi> (besides they be such valiant, fu<g ref="char:EOLhyphen"/>rious, and vigilant warriers, as any o<g ref="char:EOLhyphen"/>thers in <hi>Asia,</hi> but such, as men may com<g ref="char:EOLhyphen"/>pare them with the best, I dare say, of <hi>Europe</hi> and <hi>Africa</hi>) were freshe and lu<g ref="char:EOLhyphen"/>stie: And the <hi>Turkes,</hi> weery of the long way and great iournies which they had made, for to come in time to succour this place, came and assailed very furiously the <hi>Persians,</hi> which they thought were all bent to the assault, and their campe, with<g ref="char:EOLhyphen"/>out any order of battaile: But they found the cōtrary of that which they hoped for, not knowing that the <hi>Sophi</hi> was a<g ref="char:EOLhyphen"/>ware of it, attending them with assu<g ref="char:EOLhyphen"/>rance, &amp; were receiued speedily, and that with such furie, that at the meeting of this first encounter, the horse men of the <hi>Persians,</hi> which staied for no other thing, did repulse them a great way of
+<pb facs="tcp:177537:5"/> with part of their artillerie which had turned against the enimie. In litle time they made suche slaughter, that the <hi>Turkes</hi> being constrained to turne their bridle, were almost all in the fliyng away &amp; in this encounter destroied, &amp; lost more then thirtie thousande men, with. xxv. fielde peeces, and about twelue double Cannons.</p>
+            <p>The Turkes seeing themselues to be so beaten backe with such a losse, for all that did not let fal their courage, but with the exhortation and good conduct of a <hi>Bassha,</hi> named <hi>Ochali Zaleth;</hi> gathered themselues againe, and came verie furi<g ref="char:EOLhyphen"/>riously to resist the <hi>Persians,</hi> the which in this recharge, had not so good a bargaine with the enemies the <hi>Turkes,</hi> as they had before: and if it had not bene their artilla<g ref="char:EOLhyphen"/>rie, the which played at pleasure, they should haue had a great losse of their men, because that <hi>Ochali Zaleth</hi> had sette a<g ref="char:EOLhyphen"/>gainst them all the force of the Turkish Harquebushers, the which did great da<g ref="char:EOLhyphen"/>mage in the horsemen of the <hi>Persians,</hi> vn<g ref="char:EOLhyphen"/>til that after hauing fought long time, did
+<pb facs="tcp:177537:5"/> arriue for the succour of the <hi>Persians,</hi> a<g ref="char:EOLhyphen"/>bout fourtie thousand footmen, who staied a great whil the <hi>Turkish</hi> Harquebusher, and vntill that the <hi>Sophie</hi> in proper per<g ref="char:EOLhyphen"/>son with great force of horsmen, arriuing to the battaile did furiously enter among the <hi>Turkes,</hi> who with y<seg rend="sup">e</seg> dexteritie, force, and good experience of his horsmen, did breake all the sayde <hi>Turkish</hi> Harquebu<g ref="char:EOLhyphen"/>shers which were their strength, and then did put all their armie to flight: so that almoste of two hundreth thousande, of them, without any account of the Bag<g ref="char:EOLhyphen"/>gage, there were saued but about fourtie thousand with the said <hi>Bassha.</hi> And if the night had not been, which made an end of the battaile, there would scant haue been any, that should haue caried newes hereof.</p>
+            <p>In the meane time, whilest the bat<g ref="char:EOLhyphen"/>tel did endure, the <hi>Sophie</hi> caused alwaies the assault to bee continued, fearing the comming out of those of the towne, which on the next day after, knowing the ouer<g ref="char:EOLhyphen"/>throw of their succour, as the assault shuld haue recommenced early in the morning, they did put a certaine signe vppon the
+<pb facs="tcp:177537:6"/> walles to parle: but for all this the <hi>Persi<g ref="char:EOLhyphen"/>ans</hi> did not leaue to marche to the assault, where neuertheles they were couragious<g ref="char:EOLhyphen"/>ly receiued, &amp; those of the towne did de<g ref="char:EOLhyphen"/>fend them selues more than an houre &amp; a halfe. And by that time the <hi>Persians</hi> bee<g ref="char:EOLhyphen"/>ing refreshed of other bandes, entred in, whereas they vsed great cruelties, and taking none to mercie, they onely preser<g ref="char:EOLhyphen"/>ued him that was gouernour of the town, whom they keepe captiue.</p>
+            <p>And because the <hi>Sophie</hi> ten monethes past had lost seuen and thirtie vessels in the parties of <hi>Affrica,</hi> he hath caused to be reserued about ten thousand captiues, for to serue himselfe withall in other vessels, whiche hee meaneth readily to arme a<g ref="char:EOLhyphen"/>gainst the <hi>Turke.</hi>
+            </p>
+            <p>There is founde more then two hun<g ref="char:EOLhyphen"/>dreth Cannons for battrie, and about fiue hūdreth light peeces, with full eight thousand cadges of powder, so that beside the pillage of the souldiours onely the munitions of warre beeing within this place, are esteemed at more then sixe mil<g ref="char:EOLhyphen"/>lions of Duccates, There is also armour
+<pb facs="tcp:177537:6"/> well able to arme an▪ hundreth thousande men of warre, which the great <hi>Turke</hi> had caused to bee caried thither, for to enter this Sommer with great power vpon the lande of the <hi>Sophie.</hi>
+            </p>
+            <p>This great losse beeing come to his knowledge, he tooke such griefe thereat, that they thought he woulde haue died of sorrow: and the brute came to <hi>Venice</hi> that he was dead, neuerthelesse he is nowe in health.</p>
+            <p>All the chiefe which returned from the said battaile, haue all by his expresse com<g ref="char:EOLhyphen"/>maundement beene beheaded, yea, the selfe same <hi>Ochali Bassha.</hi> Of the other seuen <hi>Basshats,</hi> fiue were killed, and the two others are prisoners, the one whereof is sore hurt.</p>
+            <p>The <hi>Sophi</hi> had all the artillarie and munitions of warre, with al the baggage of the <hi>Turkish</hi> campe of an inestimable value: and men doe beleeue, that since the raigne of <hi>Sultan Selim,</hi> in whatsoeuer place it was, he neuer receiued such a losse</p>
+            <p>And of such a victorie the Christians ought to render thanks to our good God,
+<pb facs="tcp:177537:7"/> the which doeth imparte and giue vnto vs his graces, according as wee neede, weakening and diminishing the meanes of the enimy of his holy faith &amp; Christian religion, whō with al such like helhounds he could dispatch in lesse then the twinck<g ref="char:EOLhyphen"/>ling of an eye, if his will were such, but the occasions of this are to vs vnknowne.</p>
+            <p>And if such a victorie hath not beene obteined in <hi>Europe,</hi> or in <hi>Affricke,</hi> nee<g ref="char:EOLhyphen"/>rer vnto vs, yet the more is God to bee praysed for: because anie victorie cannot be obteined, but there is losse as well on the side of the victorer, as of the same that is vanquished.</p>
+            <p>And in the meane while the <hi>Turkes,</hi> be so much weaker for to assail vs on this side (as they had well thought to haue come this Summer againe, to the Isle of <hi>Malta</hi>) hauing loste so great number▪ of men in this battaile, as that of one hūdred and threescore thousand remaine deade vpon the place, which is no maruaile. for such Monarchies may prepare in a little time, an armie of an hundred or two hun<g ref="char:EOLhyphen"/>dred thousand men.</p>
+            <pb facs="tcp:177537:7"/>
+            <p>And he that shall see what <hi>Diodorus Siculus</hi> doth wisely write, shall finde, that when <hi>Xerxes</hi> came to inuade <hi>Graecia,</hi> when as <hi>Leonidas</hi> King of <hi>Sparta</hi> (with few men) resisted him at the straights of <hi>Thermopylae,</hi> he had more then one Mil<g ref="char:EOLhyphen"/>lion of armed men.</p>
+            <p>In the battail which <hi>Ladislaus</hi> king of <hi>Panonnie</hi> had against <hi>Amurat</hi> Empe<g ref="char:EOLhyphen"/>rour of the <hi>Turkes,</hi> there were kilde of the side of the <hi>Turkes</hi> (though they did gaine the battail) foure hūdred thousand, wherof <hi>Sabellicus</hi> is a faithfull witnesse vnto vs.</p>
+            <p>The great <hi>Alexander</hi> slue one Mil<g ref="char:EOLhyphen"/>lion of men, in the bloody battaile against <hi>Darius.</hi>
+            </p>
+            <p>
+               <hi>Cyrus</hi> King of the <hi>Persians,</hi> lost a<g ref="char:EOLhyphen"/>gainst the <hi>Scythians</hi> al his armie wherin were two hundreth thousand men, &amp; that which therein is found straunge (is this) that there was not one saued for to tel the newes.</p>
+            <p>Therefore it is not to be wondered at that the <hi>Sultan</hi> hath loste in one onely en<g ref="char:EOLhyphen"/>counter so many men: for if in times past when Gunnes were not vsed, there did
+<pb facs="tcp:177537:8"/> perish in one Iorney so great quantitie of men, what will it be nowe, when with one only stroke of Artillery, men are seue to vanish like snowe in the Sun, and that against such a diuilish inuention there is nothing able to make resistance?</p>
+            <p>The <hi>Sophi</hi> hath onely lost fortie thou<g ref="char:EOLhyphen"/>sand men, aswell in the battaile as in the assaults which he hath giuen against those of the towne, hauing a great desire to fol<g ref="char:EOLhyphen"/>lowe his good fortune, the which might let or hinder the pretence of that enemie to Christianitie. <hi>Sultan Selim</hi> then first beganne to raise vppe an armie by Sea for to descend into <hi>Africa,</hi> but it is beleeued, that hauing to deale with suche an enemie as the <hi>Persians</hi> and his confe<g ref="char:EOLhyphen"/>derates, hee shall haue inough to doe for to reuenge him against their forces, con<g ref="char:EOLhyphen"/>sidering that the <hi>Persians</hi> do vse the Can<g ref="char:EOLhyphen"/>nons aswell as the <hi>Turkes;</hi> adding there<g ref="char:EOLhyphen"/>vnto that the <hi>Persians</hi> are more stouter and couragious in warre. And it might wel be applyed which the <hi>Hebrewes</hi> or <hi>Iewes</hi> doe affirme of the Monarchie of <hi>Turkes,</hi> the which (say they) ought to
+<pb facs="tcp:177537:8"/> take end at the fifteenth Lord the whiche is <hi>Selim,</hi> reigning at this present.</p>
+            <p>A famous Astrologian of <hi>Armenica,</hi> saide vnto <hi>Soliman,</hi> that the raigne of the house of the <hi>Ottoman</hi> shoulde ends in his personne, to the which he answea<g ref="char:EOLhyphen"/>red: Not in me, but in my successour, of the which the <hi>Turkes</hi> are in great doubt, according to a prophesie which they haue saying, <hi>Our Empire shall come, a king<g ref="char:EOLhyphen"/>dome shall take it, figured by a red ap<g ref="char:EOLhyphen"/>ple.</hi> And if the swoorde of the Christians doe not rise vntill the twelfth yeer he shal possesse it, after which time, shal appeare the swoorde of the Christians, which shal put to flight the <hi>Turke,</hi> and yf vntill the seuenth yeere, the Christians doe not re<g ref="char:EOLhyphen"/>couer the red apple figured for <hi>Constan<g ref="char:EOLhyphen"/>tinople,</hi> the which seuen yeeres, are to be accounted for seuentie yeeres, for they meane one yeere for ten, at the ende of twelue yeeres, the sworde of the Christi<g ref="char:EOLhyphen"/>ans shall chase the <hi>Turkes,</hi> taking the be<g ref="char:EOLhyphen"/>ginning of the twelfth yeere, at the taking of <hi>Constantinople.</hi> Which was in the yeere. 1453. in the moneth of May. The
+<pb facs="tcp:177537:9"/> end of which twelue yeeres, in which the swoorde of the Christians ought to chase the <hi>Turke,</hi> shall come iustly in the yeere 1570. taking as is saide, seuentie for all the tenth part of seuentie.</p>
+            <p>GOD graunt that the Christian Princes being wel ioined togeather may recouer the Orientall Empire, and ther<g ref="char:EOLhyphen"/>in plant the holy Catholike faith, in the meane time, that this barbarous catife shalbe occupied in other causes. So be it.</p>
+            <figure>
+               <figDesc>a man pruning a plant, and a large bird</figDesc>
+               <p>T. D</p>
+            </figure>
+            <pb facs="tcp:177537:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
